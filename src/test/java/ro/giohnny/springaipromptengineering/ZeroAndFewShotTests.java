@@ -1,4 +1,4 @@
-package guru.springframework.springaipromptengineering;
+package ro.giohnny.springaipromptengineering;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.ai.autoconfigure.openai.OpenAiChatProperties;

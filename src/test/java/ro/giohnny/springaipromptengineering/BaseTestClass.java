@@ -1,4 +1,4 @@
-package guru.springframework.springaipromptengineering;
+package ro.giohnny.springaipromptengineering;
 
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.chat.prompt.Prompt;
